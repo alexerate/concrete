@@ -1,4 +1,4 @@
-local MP = minetest.get_modpath(minetest.get_current_modname())
+﻿local MP = minetest.get_modpath(minetest.get_current_modname())
 local S, NS = dofile(MP.."/intllib.lua")
 
 -- keycolor = { d="description", c="rgbColor"}
