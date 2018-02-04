@@ -71,7 +71,7 @@ msgid "Cyan"
 msgstr "cyan"
 
 #: nodes.lua
-msgid "Light blue"
+msgid "Sky blue"
 msgstr "Bleu clair"
 
 #: nodes.lua
