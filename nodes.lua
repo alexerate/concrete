@@ -29,7 +29,7 @@ for i, couleur in pairs(couleurs) do
 		description = S("Concrete").." "..S(couleur.d),
 		tiles = {"concrete_base.png^[colorize:#"..couleur.c.."CC" },
 		is_ground_content = false,
-		groups = {stone=1,concrete=1}
+		groups = {cracky=1,stone=1,concrete=1}
 	})
 	minetest.register_craft({
 		type = "shapeless",
