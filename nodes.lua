@@ -40,6 +40,12 @@ end
 
 minetest.register_craft({
 	type = "shapeless",
+	output = "concrete:sky_blue",
+	recipe = {"group:concrete","dye:white","dye:blue"},
+})
+
+minetest.register_craft({
+	type = "shapeless",
 	output = "concrete:grey 10",
 	recipe = {"group:sand","group:water_bucket","default:gravel"},
 })
