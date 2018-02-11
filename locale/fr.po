@@ -22,6 +22,10 @@ msgstr ""
 msgid "[MOD] Concrete loaded"
 msgstr "[MOD] Concrete chargé"
 
+#:
+msgid "Concrete Pickaxe (admin)"
+msgstr "Pioche de béton (admin)"
+
 #: nodes.lua
 msgid "Concrete"
 msgstr "Béton"
